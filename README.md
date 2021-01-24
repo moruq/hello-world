@@ -92,9 +92,16 @@ body {
 <img src="IMG_7494.jpg" alt="IMG_7494.jpg" width="284" height="350">
 <img src="IMG_7493.jpg" alt="IMG_7493.jpg" width="284" height="350">
 
+<video width="320" height="240" controls>
+  <source src="lna 2.mp4" type="video/mp4">
+  <source src="lna 2.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
 <a href="https://youtu.be/sRfo7Rsc7lg">HEMEN TIKLA HARD SİKİŞ / İBO. P </a>
 <a href="https://youtu.be/D1VPHSOqmgo">VİDEOLAR </a>
 <a href="<a href="https://youtu.be/D1VPHSOqmgo">VİDEOLAR </a>">PREMİUM </a>
 
 </body>
 </html>
+
